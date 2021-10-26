@@ -1,0 +1,25 @@
+.footer{
+    display: block;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(60, 60, 60);
+    background: rgb(60, 60, 60);
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    left:0;
+    bottom:0;
+    right:0;
+    position:absolute;
+   
+}
+
+.footerText{
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.terms{
+    font-size: 16px;
+    float:right;
+}
